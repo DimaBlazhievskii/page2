@@ -1,0 +1,20 @@
+body{
+    background-color: #2D882D;
+    color:#DB6300 ;
+}
+table{
+    font-size: 22px;
+}
+table img{
+    height:100px;
+    width: 150px;
+}
+.a{
+    height:320px;
+  width:140px;
+}
+
+ul{
+    list-style:url("https://static.tildacdn.com/tild6163-6262-4362-b230-636661333366/Group_1.svg");
+}
+
